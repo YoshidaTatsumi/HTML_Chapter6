@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image1 {
+	height:200px;
+	background-image: url(chapter6_exercise/img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.image2 {
+	height:200px;
+	background-image: url(chapter6_exercise/img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.image3 {
+	height:200px;
+	background-image: url(chapter6_exercise/img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
