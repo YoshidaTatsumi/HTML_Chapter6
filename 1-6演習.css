@@ -26,5 +26,8 @@
 }
 
 .image4 {
-	
+	height:200px;
+	background-image: url(chapter6_exercise/img/box4.jpg);
+	background-size: cover;
+	background-position: center;
 }
